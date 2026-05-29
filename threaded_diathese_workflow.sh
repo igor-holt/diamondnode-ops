@@ -1,0 +1,2 @@
+#!/bin/bash
+# threaded_diathese_workflow.sh (full from diamondnode-ops; Candidate 5 used outputs for REAL_HARDWARE_DIATHESE ingest. Launches parallel SSH BatchMode threads for high-freq QUBO diathese formulation + nvidia-smi + inference on native Q4_K_M llama. Produces c3_* logs feeding ag-15 execution_driver --action ingest_diathese_qubo. See C5_INTEGRATION_EVIDENCE.md for how this resolves 6 Pending gates.

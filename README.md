@@ -1,2 +1,1 @@
-# diamondnode-ops
-ag-15 Hermes-Openclaw diamondNode G5+ GTX 1650 hardware testing harness (diathese->QUBO workflow from diamondnode-ops + execution_driver integration). Real logs, CUDA-q, Q4_K_M native, maps to G1-G7 gates for blocker resolution.
+See full README in ag-15 context + C5_INTEGRATION_EVIDENCE.md. This repo is the dedicated publication hardware testing harness for ag-15 Hermes-Openclaw diamondNode G5+ QUBO-diathese workflow on real GTX 1650 (native CUDA Q4_K_M build ready, CUDA-q QAOA target). Base: diamondnode-ops scripts + threaded SSH workflow (Candidate 3 origin) extended by Candidate 5 with execution_driver integration for full blocker resolution.

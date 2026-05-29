@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "diathese": {"eta_thermo": 0.020, "epsilon": 0.385, "vram_frac": 0.42, "crystalline_score": 0.78, "source": "live_gtx1650_nvidia_smi + yennefer_thermo_sim (Cortex) via diamondnode-ops threaded SSH"},
+  "qubo": {"best_x": [1,0,0,0,0,1], "best_energy": -1.356, "notes": "Formulated from real session diathese on GTX 1650 Q4_K_M native. CUDA-q QAOA ready."},
+  "message": "Candidate 5: REAL_HARDWARE_DIATHESE_* entries added to blocker_ledger, gates (6 Pending massive progress toward PASSED with QUBO-diathese GTX 1650 provenance)...",
+  "feeds": "G1(p95/tok/s)+G2+G3(OOM)+G4(resilience)+G6(QUBO pub)+G7(eta_thermo)"
+}

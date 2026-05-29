@@ -1,0 +1,5 @@
+=== Sample from real c3_remote_qubo_thread.log (GTX 1650 run 2026-05-29) ===
+[1/200] eta=0.007 eps=0.385 bestE=-1.390 x=[1, 0, 0, 0, 0, 1]
+... eta progression 0.007-0.033 ...
+[10/200] eta=0.020 eps=0.385 bestE=-1.356 x=[1, 0, 0, 0, 0, 1]
+(Full 200+ samples in /tmp/c3_* ; consistent best config under live diathese. QUBO h/J encode eta_thermo/VRAM for G6 routing.)}
